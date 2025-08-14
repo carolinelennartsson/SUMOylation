@@ -17,4 +17,4 @@ The data analysed in this repository are from the studies;
 
 - Theurillat, I., Hendriks, I. A., Cossec, J.-C., Andrieux, A., Nielsen, M. L., & Dejean, A. (2020). Extensive SUMO modification of repressive chromatin factors distinguishes pluripotent from somatic cells. *Cell Reports, 32*(11), 108146. https://doi.org/10.1016/j.celrep.2020.108146
 
-- Zhao, X., Hendriks, I. A., Le Gras, S., Ye, T., Ramos-Alonso, L., Nguéa P, A., Lien, G. F., et al. (2022). Waves of sumoylation support transcription dynamics during adipocyte differentiation. *Nucleic Acids Research, 50*(3), 1351–1369. https://doi.org/10.1093/nar/gkab1278
+- Zhao X, Hendriks IA, Le Gras S, Ye T, Ramos-Alonso L, Nguéa P A, Lien GF, Ghasemi F, Klungland A, Jost B, Enserink JM, Nielsen ML, Chymkowitch P. (2022). Waves of sumoylation support transcription dynamics during adipocyte differentiation. *Nucleic Acids Research, 50*(3), 1351–1369. https://doi.org/10.1093/nar/gkac027
