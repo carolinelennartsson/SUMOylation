@@ -2,7 +2,6 @@
 
 This repository contains script for site specific identification of SBM sites, SUMOylation and ubiquitination, using MS based proteomics.
 
-
 The repository contains;
 *  [Diagnostic ion mining](https://github.com/carolinelennartsson/SUMOylation/blob/main/Diagnostic_peak_mining.ipynb)
 *  [Spectral viewer](https://github.com/carolinelennartsson/SUMOylation/blob/main/spectral_viewer.ipynb) 
@@ -12,7 +11,7 @@ The repository contains;
 *  [Search output processing](https://github.com/carolinelennartsson/SUMOylation/blob/main/Process_dataframes.ipynb)
 
 
-The data analysed in this reposity is from the studies;
+The data analysed in this repository are from the studies;
 
 - Hendriks, I. A., Lyon, D., Su, D., Skotte, N. H., Daniel, J. A., Jensen, L. J., & Nielsen, M. L. (2018). Site-specific characterization of endogenous SUMOylation across species and organs. *Nature Communications, 9*(1), 2456. https://doi.org/10.1038/s41467-018-04957-4
 
