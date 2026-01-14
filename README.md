@@ -2,6 +2,10 @@
 
 This repository contains script for site specific identification of SBM sites, SUMOylation and ubiquitination, using MS based proteomics.
 
+The work is presented in;
+- Lennartsson C, Kyriakidou P, Nielsen ML, Olsen JV, Cox J, Hendriks IA. Improved peptide search for identification of SUMO and sequence-based modifications, in MaxSBM [Internet]. bioRxiv. 2025 [cited 2025 Sept 4]. p. 2025.08.27.672604. Available from: https://www.biorxiv.org/content/10.1101/2025.08.27.672604v1.abstract
+  
+
 The repository contains;
 *  [Diagnostic ion mining](https://github.com/carolinelennartsson/SUMOylation/blob/main/Diagnostic_peak_mining.ipynb)
 *  [Spectral viewer](https://github.com/carolinelennartsson/SUMOylation/blob/main/spectral_viewer.ipynb) 
