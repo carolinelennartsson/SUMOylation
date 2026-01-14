@@ -5,11 +5,9 @@ SUMOylation sites, using mass-spectrometry-based proteomics.
 
 Documentation of the module can be found here: https://cox-labs.github.io/coxdocs/MaxSBM.html
 
-### Reference
+### The work is presented in;
 
-The work is presented in:
-
-- **Lennartsson C, Kyriakidou P, Nielsen ML, Olsen JV, Cox J, Hendriks IA.**  
+- **Lennartsson C, Kyriakidou P, Nielsen ML, Olsen JV, Cox J, Hendriks IA**  
   *Improved peptide search for identification of SUMO and sequence-based modifications, in MaxSBM.*  
   bioRxiv (2025).  
   https://www.biorxiv.org/content/10.1101/2025.08.27.672604v1.abstract
@@ -17,29 +15,28 @@ The work is presented in:
 ### Datasets
 
 #### SUMO-HEK (human cell lines)
-Hendriks IA, Lyon D, Su D, Skotte NH, Daniel JA, Jensen LJ, Nielsen ML (2018).  
-*Site-specific characterization of endogenous SUMOylation across species and organs.*  
-**Nature Communications**, 9(1), 2456.  
-https://doi.org/10.1038/s41467-018-04957-4
+- **Hendriks IA, Lyon D, Su D, Skotte NH, Daniel JA, Jensen LJ, Nielsen ML** (2018)  
+  *Site-specific characterization of endogenous SUMOylation across species and organs.*  
+  *Nature Communications*, **9**(1), 2456.  
+  https://doi.org/10.1038/s41467-018-04957-4
 
 #### SUMO-MEC (mouse embryonic cells)
-Theurillat I, Hendriks IA, Cossec J-C, Andrieux A, Nielsen ML, Dejean A (2020).  
-*Extensive SUMO modification of repressive chromatin factors distinguishes pluripotent from somatic cells.*  
-**Cell Reports**, 32(11), 108146.  
-https://doi.org/10.1016/j.celrep.2020.108146
+- **Theurillat I, Hendriks IA, Cossec J-C, Andrieux A, Nielsen ML, Dejean A** (2020)  
+  *Extensive SUMO modification of repressive chromatin factors distinguishes pluripotent from somatic cells.*  
+  *Cell Reports*, **32**(11), 108146.  
+  https://doi.org/10.1016/j.celrep.2020.108146
 
 #### SUMO-Adip (mouse adipocytes)
-Zhao X, Hendriks IA, Le Gras S, Ye T, Ramos-Alonso L, Nguéa PA, et al. (2022).  
-*Waves of SUMOylation support transcription dynamics during adipocyte differentiation.*  
-**Nucleic Acids Research**, 50(3), 1351–1369.  
-https://doi.org/10.1093/nar/gkac027
+- **Zhao X, Hendriks IA, Le Gras S, Ye T, Ramos-Alonso L, Nguéa PA, et al.** (2022)  
+  *Waves of SUMOylation support transcription dynamics during adipocyte differentiation.*  
+  *Nucleic Acids Research*, **50**(3), 1351–1369.  
+  https://doi.org/10.1093/nar/gkac027
 
 #### Ub-LysC (human cell lines)
-Akimov V, Barrio-Hernandez I, Hansen SVF, Hallenborg P, Pedersen AK, et al. (2018).  
-*UbiSite approach for comprehensive mapping of lysine and N-terminal ubiquitination sites.*  
-**Nature Structural & Molecular Biology**, 25, 631–640.  
-https://doi.org/10.1038/s41594-018-0084-y
-
+- **Akimov V, Barrio-Hernandez I, Hansen SVF, Hallenborg P, Pedersen AK, et al.** (2018)  
+  *UbiSite approach for comprehensive mapping of lysine and N-terminal ubiquitination sites.*  
+  *Nature Structural & Molecular Biology*, **25**, 631–640.  
+  https://doi.org/10.1038/s41594-018-0084-y
 
 ### Notebooks and scripts
 
