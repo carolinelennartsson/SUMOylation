@@ -59,8 +59,8 @@ This repository contains the following notebooks and scripts:
 - **[Spectral viewer](spectral_viewer.ipynb)**  
   Interactive visualization of MS/MS spectra for inspection of fragment ion series and modification-specific peaks.
 
-- **[Benchmark plots](theoretical_peptide.ipynb)**  
-  Generation and analysis of theoretical peptide and fragment ion compositions for SUMoylated peptides. Used for problem formulation.
+- **[Theoretical spectra](theoretical_peptide.ipynb)**  
+  Generation and analysis of theoretical spectra of peptides and their fragment ion compositions for SUMoylated peptides. Used for problem formulation and theory.
 
 #### Dataset-specific analyses of SUMOylatated peptides
 - **[Main SUMO-HEK analysis](Main_result_SUMO_HEK.ipynb)**  
