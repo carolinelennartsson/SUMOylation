@@ -79,7 +79,7 @@ This repository contains the following notebooks and scripts:
 - **[Protein groups (adipocytes)](protein_groups_adiposites.ipynb)**  
   Protein group analysis for adipocyte datasets.
 
-- **[Protein groups (MEF)](protein_groups_mef.ipynb)**  
+- **[Protein groups (MEC)](protein_groups_mec.ipynb)**  
   Protein group analysis for mouse embryonic fibroblast datasets.
 
 - **[Protein inference](protein_inference.py)**  
