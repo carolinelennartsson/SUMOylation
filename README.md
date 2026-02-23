@@ -66,7 +66,7 @@ This repository contains the following notebooks and scripts:
 - **[Main SUMO-HEK analysis](Main_result_SUMO_HEK.ipynb)**  
   Primary analysis and summary of SUMOylation results in human HEK cell lines.
 
-- **[Mouse embryonic cells analysis](mouce_embryonic_cells_analysis.ipynb)**  
+- **[Mouse embryonic cells (MEC) analysis](mouce_embryonic_cells_analysis.ipynb)**  
   Analysis of SUMOylation data from mouse embryonic cells (MEC).
 
 - **[Mouse adipocytes analysis](mouse_adipocytes_analysis.ipynb)**  
