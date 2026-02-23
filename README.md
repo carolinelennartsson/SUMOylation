@@ -86,8 +86,5 @@ This repository contains the following notebooks and scripts:
   Python script implementing protein inference from uniprot metadata.
 
 #### Data processing and utilities
-- **[Search output processing](Process_dataframes.ipynb)**  
-  Post-processing, filtering, and restructuring of search engine output tables.
-
 - **[Percolator converter](percolator_converter.ipynb)**  
   Conversion of MaxQuant search results into Percolator-compatible input formats.
